@@ -1,1 +1,1 @@
-aiml branch has two sections,aiml is a sub branch of cse
+aiml branch has two sections,aiml is a sub branch of cse,ds and cb is also sub branches of cse 
